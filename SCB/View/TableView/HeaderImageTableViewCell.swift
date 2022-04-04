@@ -9,8 +9,8 @@ import UIKit
 import SDWebImage
 
 class HeaderImageTableViewCell: UITableViewCell {
-    //MARK: - Properties
 
+    //MARK: - Properties
     @IBOutlet weak var posterImageView: UIImageView!
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var ratingLabel: UILabel!
